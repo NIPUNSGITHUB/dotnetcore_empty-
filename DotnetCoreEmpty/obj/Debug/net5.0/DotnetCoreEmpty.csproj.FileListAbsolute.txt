@@ -9,7 +9,6 @@ Z:\DotnetCore\DotnetCoreEmpty\DotnetCoreEmpty\bin\Debug\net5.0\ref\DotnetCoreEmp
 Z:\DotnetCore\DotnetCoreEmpty\DotnetCoreEmpty\bin\Debug\net5.0\DotnetCoreEmpty.pdb
 Z:\DotnetCore\DotnetCoreEmpty\DotnetCoreEmpty\bin\Debug\net5.0\DotnetCoreEmpty.Views.dll
 Z:\DotnetCore\DotnetCoreEmpty\DotnetCoreEmpty\bin\Debug\net5.0\DotnetCoreEmpty.Views.pdb
-Z:\DotnetCore\DotnetCoreEmpty\DotnetCoreEmpty\obj\Debug\net5.0\DotnetCoreEmpty.csproj.AssemblyReference.cache
 Z:\DotnetCore\DotnetCoreEmpty\DotnetCoreEmpty\obj\Debug\net5.0\DotnetCoreEmpty.GeneratedMSBuildEditorConfig.editorconfig
 Z:\DotnetCore\DotnetCoreEmpty\DotnetCoreEmpty\obj\Debug\net5.0\DotnetCoreEmpty.AssemblyInfoInputs.cache
 Z:\DotnetCore\DotnetCoreEmpty\DotnetCoreEmpty\obj\Debug\net5.0\DotnetCoreEmpty.AssemblyInfo.cs
@@ -38,3 +37,4 @@ Z:\DotnetCore\DotnetCoreEmpty\DotnetCoreEmpty\obj\Debug\net5.0\ref\DotnetCoreEmp
 Z:\DotnetCore\DotnetCoreEmpty\DotnetCoreEmpty\obj\Debug\net5.0\DotnetCoreEmpty.pdb
 Z:\DotnetCore\DotnetCoreEmpty\DotnetCoreEmpty\obj\Debug\net5.0\DotnetCoreEmpty.genruntimeconfig.cache
 Z:\DotnetCore\DotnetCoreEmpty\DotnetCoreEmpty\obj\Debug\net5.0\DotnetCoreEmpty.csproj.CopyComplete
+Z:\DotnetCore\DotnetCoreEmpty\DotnetCoreEmpty\obj\Debug\net5.0\DotnetCoreEmpty.csproj.AssemblyReference.cache
